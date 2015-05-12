@@ -1,0 +1,17 @@
+﻿//Reading unbounded stream from standard input
+
+void INCLUDEREPLACE(){CX_INCL("iostream");}
+int main(void) {
+ char Password[80];
+ puts("Enter 8 character password:");
+gets(Password);
+
+}
+
+
+
+
+
+
+
+ 

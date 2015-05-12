@@ -1,0 +1,27 @@
+﻿/* This program tests the scanner's ability to handle preprocessor
+   directives.
+*/
+
+
+
+
+
+
+main(int argc, char **argv)
+{
+  size_t size = strlen(argv[3]);
+  char *buffer = (char *)malloc(1024);
+
+
+  strncpy(buffer,  argv[3],  size+sizeof(char));
+
+
+
+}
+
+
+
+
+
+
+ 

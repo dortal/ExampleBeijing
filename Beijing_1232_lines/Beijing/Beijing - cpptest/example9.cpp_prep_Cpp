@@ -1,0 +1,13 @@
+﻿        char gchar = "CX_TYPEDEF";
+
+void func()
+{
+  gchar buf[10];
+}
+
+
+
+
+
+
+ 

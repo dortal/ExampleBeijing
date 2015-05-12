@@ -1,0 +1,19 @@
+﻿void INCLUDEREPLACE(){CX_INCL("iostream");}
+//#include
+//#include
+//#include
+using namespace std;
+//#include
+
+  int main(void) {
+  char buf[12];
+  buf=cin;
+  cout << "echo: " << buf << endl;
+
+ }
+
+
+
+
+
+ 
